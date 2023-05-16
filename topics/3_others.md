@@ -1,4 +1,26 @@
-# Applications on other domains
+# Applications on Other Domains
+
+# Inverse Problems and Medical Imaging
+
+**Solving Inverse Problems in Medical Imaging with Score-Based Generative Models** \
+*Yang Song<sup>1</sup>, Liyue Shen<sup>1</sup>, Lei Xing, Stefano Ermon* \
+ICLR 2022. [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)] \
+15 Nov 2021
+
+**Denoising Diffusion Restoration Models** \
+*Bahjat Kawar, Michael Elad, Stefano Ermon, Jiaming Song* \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2201.11793)] \
+27 Jan 2022
+
+**Diffusion Posterior Sampling for General Noisy Inverse Problems** \
+*Hyungjin Chung<sup>1</sup>, Jeongsol Kim<sup>1</sup>, Michael T. Mccann, Marc L. Klasky, Jong Chul Ye* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14687)] [[Github](https://github.com/DPS2022/diffusion-posterior-sampling)] \
+29 Sep 2022
+
+**Score-Based Diffusion Models as Principled Priors for Inverse Imaging** \
+*Berthy T. Feng, Jamie Smith, Michael Rubinstein, Huiwen Chang, Katherine L. Bouman, William T. Freeman* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2304.11751)] \
+23 Apr 2023
 
 ## 3D
 
@@ -166,4 +188,42 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.17599)] \
 *Duygu Ceylan, Chun-Hao Paul Huang, Niloy J. Mitra* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.12688)] [[Project](https://duyguceylan.github.io/pix2video.github.io/)] \
 22 Mar 2023
+
+
+# Flexible Large-Content Generation
+
+**Mixture of Diffusers for scene composition and high resolution image generation** \
+*Álvaro Barbero Jiménez* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.02412)] [[Github](https://github.com/albarji/mixture-of-diffusers)] \
+5 Feb 2023
+
+**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
+*Omer Bar-Tal<sup>1</sup>, Lior Yariv<sup>1</sup>, Yaron Lipman, Tali Dekel* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.08113)] [Project](https://multidiffusion.github.io/)] [[Github](https://github.com/omerbt/MultiDiffusion)] \
+16 Feb 2023
+
+**DiffCollage: Parallel Generation of Large Content with Diffusion Models** \
+*Qinsheng Zhang, Jiaming Song, Xun Huang, Yongxin Chen, Ming-Yu Liu* \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2303.17076)] [[Project](https://research.nvidia.com/labs/dir/diffcollage/)] \
+30 Mar 2023
+
+
+# Motion / Animation
+
+**Human Motion Diffusion Model** \
+*Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Amit H. Bermano, Daniel Cohen-Or* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14916)] [[Project](https://guytevet.github.io/mdm-page/)] \
+29 Sep 2022
+
+**Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model** \
+*Yuming Du, Robin Kips, Albert Pumarola, Sebastian Starke, Ali Thabet, Artsiom Sanakoyeu* \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2304.08577)] [[Project](https://dulucas.github.io/agrol/)] \
+17 Apr 2023
+
+**Human Motion Diffusion as a Generative Prior** \
+*Yonatan Shafir<sup>1</sup>, Guy Tevet<sup>1</sup>, Roy Kapon, Amit H. Bermano* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.01418)] \
+2 Mar 2023
+
+
 
