@@ -167,3 +167,16 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.17599)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.12688)] [[Project](https://duyguceylan.github.io/pix2video.github.io/)] \
 22 Mar 2023
 
+
+# Motion
+
+
+**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model** \
+*Mingyuan Zhang, Zhongang Cai, Liang Pan, Fangzhou Hong, Xinying Guo, Lei Yang, Ziwei Liu* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \
+31 Aug 2022
+
+**Human Motion Diffusion Model** \
+*Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Amit H. Bermano, Daniel Cohen-Or* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14916)] [[Project](https://guytevet.github.io/mdm-page/)] \
+29 Sep 2022
