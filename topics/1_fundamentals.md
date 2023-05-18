@@ -50,6 +50,12 @@ NeurIPS 2022 (Oral). [[Paper](https://arxiv.org/abs/2211.01095)] [[Github](https
 arXiv 2022. [[Paper](https://arxiv.org/abs/2204.13902)] \
 29 Apr 2022
 
+**Gotta Go Fast When Generating Data with Score-Based Models** \
+Alexia Jolicoeur-Martineau, Ke Li, Rémi Piché-Taillefer, Tal Kachman, Ioannis Mitliagkas* \
+arXiv 2021. [[Paper](https://arxiv.org/abs/2105.14080)] [[Github](https://github.com/AlexiaJM/score_sde_fast_sampling)] \
+28 May 2021
+
+
 
 ## Fast sampling with additional training
 
@@ -67,6 +73,16 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2202.00512)] \
 *Chenlin Meng, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2210.03142)] \
 6 Oct 2022
+
+**GENIE: Higher-Order Denoising Diffusion Solvers** \
+*Tim Dockhorn, Arash Vahdat, Karsten Kreis* \
+NeurIPS 2022 (Oral). [[Paper](https://arxiv.org/abs/2210.05475)] [[Github](https://github.com/nv-tlabs/GENIE)] \
+11 Oct 2022
+
+**Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality** \ 
+*Daniel Watson, William Chan, Jonathan Ho, Mohammad Norouzi* \
+ICLR 2022. [[Paper](https://arxiv.org/abs/2202.05830)] \
+11 Feb 2022
 
 ## Conditional Generation and Guidance
 
