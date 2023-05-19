@@ -22,6 +22,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14687)] [[Github](https://github
 arXiv 2023. [[Paper](https://arxiv.org/abs/2304.11751)] \
 23 Apr 2023
 
+**A Variational Perspective on Solving Inverse Problems with Diffusion Models** \
+*Morteza Mardani, Jiaming Song, Jan Kautz, Arash Vahdat* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.04391)] \
+7 May 2023
+
 ## 3D
 
 ### Point clouds
@@ -189,6 +194,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.17599)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.12688)] [[Project](https://duyguceylan.github.io/pix2video.github.io/)] \
 22 Mar 2023
 
+**Structure and Content-Guided Video Synthesis with Diffusion Models** \
+*Patrick Esser, Johnathan Chiu, Parmida Atighehchian, Jonathan Granskog, Anastasis Germanidis* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03011)] \
+6 Feb 2023
 
 # Flexible Large-Content Generation
 
@@ -208,7 +217,13 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2303.17076)] [[Project](https://resear
 30 Mar 2023
 
 
-# Motion / Animation
+
+# Motion
+
+**MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model** \
+*Mingyuan Zhang, Zhongang Cai, Liang Pan, Fangzhou Hong, Xinying Guo, Lei Yang, Ziwei Liu* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2208.15001)] [[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \
+31 Aug 2022
 
 **Human Motion Diffusion Model** \
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Amit H. Bermano, Daniel Cohen-Or* \

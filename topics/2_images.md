@@ -61,6 +61,11 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2210.11427)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.00262)] \
 1 Mar 2023
 
+**MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
+*Omer Bar-Tal, Lior Yariv, Yaron Lipman, Tali Dekel* \
+ICML 2023. [[Paper](https://arxiv.org/abs/2302.08113)] [[Github](https://github.com/omerbt/MultiDiffusion)] \
+16 Feb 2023
+
 
 ## Personalization
 
@@ -116,7 +121,7 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2304.06648)] \
 13 Apr 2023
 
 
-## "Low-level" Vision
+## Low-level Vision
 
 **Palette: Image-to-Image Diffusion Models** \
 *Chitwan Saharia, William Chan, Huiwen Chang, Chris A. Lee, Jonathan Ho, Tim Salimans, David J. Fleet, Mohammad Norouzi*\
@@ -131,3 +136,8 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2112.02475)]  \
 *Jiarui Xu, Sifei Liu, Arash Vahdat, Wonmin Byeon, Xiaolong Wang, Shalini De Mello* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.04803)] [[Project](https://jerryxu.net/ODISE/)] \
 8 Mar 2023
+
+**Monocular Depth Estimation using Diffusion Models** \
+*Saurabh Saxena, Abhishek Kar, Mohammad Norouzi, David J. Fleet* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.14816)]
+28 April 2023

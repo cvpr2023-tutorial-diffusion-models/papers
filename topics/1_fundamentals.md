@@ -30,6 +30,11 @@ NeurIPS 2022. [[Paper](https://arxiv.org/abs/2206.00364)] \
 ICLR 2021. [[Paper](https://arxiv.org/abs/2010.02502)] [[Github](https://github.com/ermongroup/ddim)] \
 6 Oct 2020
 
+**Gotta Go Fast When Generating Data with Score-Based Models** \
+Alexia Jolicoeur-Martineau, Ke Li, Rémi Piché-Taillefer, Tal Kachman, Ioannis Mitliagkas* \
+arXiv 2021. [[Paper](https://arxiv.org/abs/2105.14080)] [[Github](https://github.com/AlexiaJM/score_sde_fast_sampling)] \
+28 May 2021
+
 **Pseudo Numerical Methods for Diffusion Models on Manifolds** \
 *Luping Liu, Yi Ren, Zhijie Lin, Zhou Zhao* \
 ICLR 2022. [[Paper](https://arxiv.org/abs/2202.09778)] [[Github](https://github.com/luping-liu/PNDM)] \
@@ -60,6 +65,9 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2206.05564)] [[Github](https://github
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04867)] [[Project](https://unipc.ivg-research.xyz)] [[Github](https://github.com/wl-zhao/UniPC)] \
 9 Feb 2023
 
+
+
+
 ## Fast sampling with additional training
 
 **Tackling the Generative Learning Trilemma with Denoising Diffusion GANs** \
@@ -76,6 +84,16 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2202.00512)] \
 *Chenlin Meng, Ruiqi Gao, Diederik P. Kingma, Stefano Ermon, Jonathan Ho, Tim Salimans* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2210.03142)] \
 6 Oct 2022
+
+**GENIE: Higher-Order Denoising Diffusion Solvers** \
+*Tim Dockhorn, Arash Vahdat, Karsten Kreis* \
+NeurIPS 2022 (Oral). [[Paper](https://arxiv.org/abs/2210.05475)] [[Github](https://github.com/nv-tlabs/GENIE)] \
+11 Oct 2022
+
+**Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality** \ 
+*Daniel Watson, William Chan, Jonathan Ho, Mohammad Norouzi* \
+ICLR 2022. [[Paper](https://arxiv.org/abs/2202.05830)] \
+11 Feb 2022
 
 ## Conditional Generation and Guidance
 
