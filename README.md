@@ -32,8 +32,9 @@ We welcome all types of contributions, mostly in the form of papers under certai
 If you think a paper does not fall into any of the topics that we listed, please raise an issue.
 
 ### New papers
-If you want to contribute new "papers", please follow these steps.
+If you want to contribute new "papers", please create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
+Generally, we recommend adding papers in "Awesome Diffusion Models" format. If you are the author and you have some slides for the work, you can create a link to the slides as well. 
 
 ### Questions or suggestions
 
