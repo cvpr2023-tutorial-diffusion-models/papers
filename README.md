@@ -34,6 +34,8 @@ If you think a paper does not fall into any of the topics that we listed, please
 ### New papers
 If you want to contribute new "papers", please create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
+See [this](https://github.com/cvpr2023-tutorial-diffusion-models/papers/pull/1) as an example. Generally, we will accept your pull request as long as it is a relevant paper -- this does not guarantee it being "highlighted", but we will try our best read the paper (hopefully we don't get 1k+ PRs). 
+
 Generally, we recommend adding papers in "Awesome Diffusion Models" format. If you are the author and you have some slides for the work, you can create a link to the slides as well. We will compile them to [the website](https://cvpr2023-tutorial-diffusion-models.github.io/) after the tutorial. 
 
 ### Questions or suggestions
