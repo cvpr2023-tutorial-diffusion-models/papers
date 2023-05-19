@@ -2,6 +2,11 @@
 
 # Inverse Problems and Medical Imaging
 
+**My Awesome Paper** \
+*Ack Rickly* \
+ICLR 2077. [[Paper]()] [[Github]()] [[Slides]()] \
+4 Apr 2077
+
 **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models** \
 *Yang Song<sup>1</sup>, Liyue Shen<sup>1</sup>, Lei Xing, Stefano Ermon* \
 ICLR 2022. [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)] \
