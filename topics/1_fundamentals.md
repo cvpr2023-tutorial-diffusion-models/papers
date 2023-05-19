@@ -50,6 +50,15 @@ NeurIPS 2022 (Oral). [[Paper](https://arxiv.org/abs/2211.01095)] [[Github](https
 arXiv 2022. [[Paper](https://arxiv.org/abs/2204.13902)] \
 29 Apr 2022
 
+**gDDIM: Generalized denoising diffusion implicit models** \
+*Qinsheng Zhang, Molei Tao, Yongxin Chen* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2206.05564)] [[Github](https://github.com/qsh-zh/gDDIM)] \
+11 Jun 2022
+
+**UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models** \
+*Wenliang Zhao, Lujia Bai, Yongming Rao, Jie Zhou, Jiwen Lu* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04867)] [[Project](https://unipc.ivg-research.xyz)] [[Github](https://github.com/wl-zhao/UniPC)] \
+9 Feb 2023
 
 ## Fast sampling with additional training
 
