@@ -24,9 +24,9 @@ Therefore, we take an "RLHF" approach to our tutorial and welcome any community 
 
 We welcome all types of contributions, mostly in the form of papers under certain topics relevant to CVPR. For now, these include:
 
-- **Fundamentals [Arash]**: these include methods that can be applied to general domains, such as training, sampling, guidance. 
-- **Applications on natural iamges [Chenlin]**: these include applications that stem from natural images but can also be applied to other domains, such as architecture, editing, personalization, fine-tuning, "low-level" vision.
-- **Applications on other domains [Jiaming]**: these include applications from other domains, such as video, 3d, motion, large content generation, inverse problems for medical domains, etc.
+- [**Fundamentals [Arash]**](https://github.com/cvpr2023-tutorial-diffusion-models/papers/blob/main/topics/1_fundamentals.md): these include methods that can be applied to general domains, such as training, sampling, guidance. 
+- [**Applications on natural iamges [Chenlin]**](https://github.com/cvpr2023-tutorial-diffusion-models/papers/blob/main/topics/2_images.md): these include applications that stem from natural images but can also be applied to other domains, such as architecture, editing, personalization, fine-tuning, "low-level" vision.
+- [**Applications on other domains [Jiaming]**](https://github.com/cvpr2023-tutorial-diffusion-models/papers/blob/main/topics/3_others.md): these include applications from other domains, such as video, 3d, motion, large content generation, inverse problems for medical domains, etc.
 
 ### New topics
 If you think a paper does not fall into any of the topics that we listed, please raise an issue.
@@ -34,7 +34,7 @@ If you think a paper does not fall into any of the topics that we listed, please
 ### New papers
 If you want to contribute new "papers", please create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
-Generally, we recommend adding papers in "Awesome Diffusion Models" format. If you are the author and you have some slides for the work, you can create a link to the slides as well. 
+Generally, we recommend adding papers in "Awesome Diffusion Models" format. If you are the author and you have some slides for the work, you can create a link to the slides as well. We will compile them to [the website](https://cvpr2023-tutorial-diffusion-models.github.io/) after the tutorial. 
 
 ### Questions or suggestions
 
