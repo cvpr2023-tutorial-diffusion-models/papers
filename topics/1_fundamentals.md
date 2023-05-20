@@ -111,6 +111,10 @@ NeurIPS Workshop 2021. [[Paper](https://arxiv.org/abs/2207.12598)] \
 *Automatic1111* \
 [[Report](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Negative-prompt)]
 
+**Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
+*Susung Hong, Gyuseong Lee, Wooseok Jang, Seungryong Kim* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2210.00939)] [[Github](https://github.com/KU-CVLAB/Self-Attention-Guidance/)] \
+3 Oct 2022 
 
 ## Diffusion Models on Low-dimensional Spaces
 
