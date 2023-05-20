@@ -105,6 +105,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2212.00774)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2211.07600)] [[Github](https://github.com/eladrich/latent-nerf)] \
 14 Nov 2022
 
+**Debiasing Scores and Prompts of 2D Diffusion for Robust Text-to-3D Generation** \
+*Susung Hong<sup>1</sup>, Donghoon Ahn<sup>1</sup>, Seungryong Kim* \
+CVPR Workshop 2023. [[Paper](https://arxiv.org/abs/2303.15413)] \
+14 Nov 2022
+
 
 ### 3d using 2d models, 3d data
 
