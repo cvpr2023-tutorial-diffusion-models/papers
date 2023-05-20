@@ -110,6 +110,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.05543)] [[Github](https://github
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.08453)] [[Github](https://github.com/TencentARC/T2I-Adapter)] \
 10 Feb 2023
 
+**Editing Implicit Assumptions in Text-to-Image Diffusion Models** \
+*Hadas Orgad, Bahjat Kawar, Yonatan Belinkov* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.08084)] [[Project](https://time-diffusion.github.io/)] [[Github](https://github.com/bahjat-kawar/time-diffusion)]  \
+14 Mar 2023
+
 **SVDiff: Compact Parameter Space for Diffusion Fine-Tuning** \
 *Ligong Han, Yinxiao Li, Han Zhang, Peyman Milanfar, Dimitris Metaxas, Feng Yang* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.11305)] \
