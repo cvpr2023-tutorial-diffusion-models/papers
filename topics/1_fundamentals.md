@@ -95,6 +95,11 @@ NeurIPS 2022 (Oral). [[Paper](https://arxiv.org/abs/2210.05475)] [[Github](https
 ICLR 2022. [[Paper](https://arxiv.org/abs/2202.05830)] \
 11 Feb 2022
 
+**Wavelet Diffusion Models Are Fast and Scalable Image Generators** \
+*Hao Phung, Quan Dao, Anh Tran* \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2211.16152)] [[Github](https://github.com/VinAIResearch/WaveDiff.git)] \
+29 Nov 2022
+
 ## Conditional Generation and Guidance
 
 **Diffusion Models Beat GANs on Image Synthesis** \
