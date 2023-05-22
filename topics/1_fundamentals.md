@@ -142,3 +142,28 @@ arXiv 2021. [[Paper](https://arxiv.org/abs/2106.05931)] \
 *Robin Rombach<sup>1</sup>, Andreas Blattmann<sup>1</sup>, Dominik Lorenz, Patrick Esser, Björn Ommer* \
 CVPR 2022. [[Paper](https://arxiv.org/abs/2112.10752)] [[Github](https://github.com/CompVis/latent-diffusion)] \
 20 Dec 2021
+
+**Score-Guided Intermediate Layer Optimization: Fast Langevin Mixing for Inverse Problems** \
+*Giannis Daras<sup>1</sup>, Yuval Dagan<sup>1</sup>, Alexandros G. Dimakis, Constantinos Daskalakis* \
+ICML 2022. [[Paper](https://arxiv.org/abs/2206.09104)] [[Github](https://github.com/giannisdaras/sgilo)] \
+22 Jun 2022
+
+
+## Generalized Diffusion Models
+
+**Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise** \
+*Arpit Bansal, Eitan Borgnia, Hong-Min Chu, Jie S. Li, Hamid Kazemi, Furong Huang, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09392)] [[Github](https://github.com/arpitbansal297/Cold-Diffusion-Models)] \
+19 Aug 2022
+
+**Soft Diffusion: Score Matching for General Corruptions** \
+*Giannis Daras, Mauricio Delbracio, Hossein Talebi, Alexandros G. Dimakis, Peyman Milanfar* \
+TMLR 2023. [[Paper](https://openreview.net/forum?id=W98rebBxlQ)] \
+12 Sep 2022
+
+**Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration** \
+*Mauricio Delbracio, Peyman Milanfar* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.11435)] \
+20 March 2023
+
+
