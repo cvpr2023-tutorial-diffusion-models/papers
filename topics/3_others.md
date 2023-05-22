@@ -2,7 +2,7 @@
 
 # Inverse Problems and Medical Imaging
 
-**Robust compressed sensing mri with deep generative priors** \
+**Robust Compressed Sensing MRI with Deep Generative Priors** \
 Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G Dimakis, Jon Tamir \
 NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/7d6044e95a16761171b130dcb476a43e-Abstract.html)] [[Github](https://github.com/utcsilab/csgm-mri-langevin)] \
 09 Nov 2021
