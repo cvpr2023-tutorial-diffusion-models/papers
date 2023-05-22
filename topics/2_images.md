@@ -42,6 +42,11 @@ ICLR  2022. [[Paper](https://arxiv.org/abs/2108.01073)] [[Project](https://sde-i
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2211.02048)] [[Github](https://github.com/lmxyy/sige)] \
 4 Nov 2022
 
+**Blended Diffusion for Text-driven Editing of Natural Images** \
+*Omri Avrahami, Dani Lischinski, Ohad Fried* \
+CVPR  2022. [[Paper](https://arxiv.org/abs/2111.14818)] [[Project](https://omriavrahami.com/blended-diffusion-page/)] [[Github](https://github.com/omriav/blended-diffusion)] \
+29 Nov 2021
+
 **Prompt-to-Prompt Image Editing with Cross-Attention Control** \
 *Amir Hertz, Ron Mokady, Jay Tenenbaum, Kfir Aberman, Yael Pritch, Daniel Cohen-Or* \
 ICLR 2023. [[Paper](https://prompt-to-prompt.github.io/ptp_files/Prompt-to-Prompt_preprint.pdf)] | [[GitHub](https://github.com/google/prompt-to-prompt/)]
@@ -99,6 +104,11 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2106.09685)] \
 **GLIGEN: Open-Set Grounded Text-to-Image Generation** \
 *Yuheng Li, Haotian Liu, Qingyang Wu, Fangzhou Mu, Jianwei Yang, Jianfeng Gao, Chunyuan Li, Yong Jae Lee* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2301.07093)] [[Project](https://gligen.github.io/)] \
+
+**SpaText: Spatio-Textual Representation for Controllable Image Generation** \
+*Omri Avrahami, Thomas Hayes, Oran Gafni, Sonal Gupta, Yaniv Taigman, Devi Parikh, Dani Lischinski, Ohad Fried, Xi Yin* \
+CVPR  2023. [[Paper](https://arxiv.org/abs/2211.14305)] [[Project](https://omriavrahami.com/spatext/)] \
+25 Nov 2022
 
 **Adding Conditional Control to Text-to-Image Diffusion Models** \
 *Lvmin Zhang, Maneesh Agrawala* \
