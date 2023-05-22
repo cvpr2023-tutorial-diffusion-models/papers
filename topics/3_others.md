@@ -241,6 +241,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2208.15001)] [[Project](https://mingy
 arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14916)] [[Project](https://guytevet.github.io/mdm-page/)] \
 29 Sep 2022
 
+**Executing your Commands via Motion Diffusion in Latent Space** \
+*Xin Chen<sup>1</sup>, Biao Jiang<sup>1</sup>, Wen Liu, Zilong Huang, Bin Fu, Tao Chen, Jingyi Yu, Gang Yu* \
+CVPR 2023. [[Paper](https://arxiv.org/abs/2212.04048)] [[Project](https://github.com/ChenFengYe/motion-latent-diffusion)] \
+8 Dec 2022
+
 **Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model** \
 *Yuming Du, Robin Kips, Albert Pumarola, Sebastian Starke, Ali Thabet, Artsiom Sanakoyeu* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2304.08577)] [[Project](https://dulucas.github.io/agrol/)] \
@@ -250,6 +255,3 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2304.08577)] [[Project](https://duluca
 *Yonatan Shafir<sup>1</sup>, Guy Tevet<sup>1</sup>, Roy Kapon, Amit H. Bermano* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.01418)] \
 2 Mar 2023
-
-
-
