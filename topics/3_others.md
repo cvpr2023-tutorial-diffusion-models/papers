@@ -2,10 +2,16 @@
 
 # Inverse Problems and Medical Imaging
 
+**Robust Compressed Sensing MRI with Deep Generative Priors** \
+Ajil Jalal, Marius Arvinte, Giannis Daras, Eric Price, Alexandros G Dimakis, Jon Tamir \
+NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/7d6044e95a16761171b130dcb476a43e-Abstract.html)] [[Github](https://github.com/utcsilab/csgm-mri-langevin)] \
+09 Nov 2021
+
 **Solving Inverse Problems in Medical Imaging with Score-Based Generative Models** \
 *Yang Song<sup>1</sup>, Liyue Shen<sup>1</sup>, Lei Xing, Stefano Ermon* \
 ICLR 2022. [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)] \
 15 Nov 2021
+
 
 **Denoising Diffusion Restoration Models** \
 *Bahjat Kawar, Michael Elad, Stefano Ermon, Jiaming Song* \
