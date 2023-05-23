@@ -94,6 +94,11 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2212.04488)] [[Project](https://www.cs
 SIGGRAPH 2023. [[Paper](https://arxiv.org/abs/2305.01644)] [[Project](https://research.nvidia.com/labs/par/Perfusion/)] \
 8 Dec 2022
 
+**A Recipe for Watermarking Diffusion Models** \
+*Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Ngai-Man Cheung, Min Lin* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.10137)] [[Project](https://github.com/yunqing-me/WatermarkDM)] \
+17 March 2023
+
 
 ## Fine-tuning
 
