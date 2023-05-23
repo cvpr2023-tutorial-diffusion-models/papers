@@ -156,6 +156,11 @@ ICML 2022. [[Paper](https://arxiv.org/abs/2206.09104)] [[Github](https://github.
 
 ## Generalized Diffusion Models
 
+**Action Matching: Learning Stochastic Dynamics from Samples** \
+*Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani* \
+ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] [[Github](https://github.com/necludov/jam)] \
+13 Oct 2022
+
 **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise** \
 *Arpit Bansal, Eitan Borgnia, Hong-Min Chu, Jie S. Li, Hamid Kazemi, Furong Huang, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09392)] [[Github](https://github.com/arpitbansal297/Cold-Diffusion-Models)] \
