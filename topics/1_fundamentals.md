@@ -153,6 +153,10 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2112.10752)] [[Github](https://github.
 ICML 2022. [[Paper](https://arxiv.org/abs/2206.09104)] [[Github](https://github.com/giannisdaras/sgilo)] \
 22 Jun 2022
 
+**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
+*Ziwei Luo, Fredrik K. Gustafsson, Zheng Zhao, Jens Sjölund, Thomas B. Schön* \
+CVPR Workshop 2023. [[Paper](https://arxiv.org/abs/2304.08291)] [[Github](https://github.com/Algolzw/image-restoration-sde)] \
+17 Apr 2023
 
 ## Generalized Diffusion Models
 
@@ -171,4 +175,8 @@ TMLR 2023. [[Paper](https://openreview.net/forum?id=W98rebBxlQ)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.11435)] \
 20 March 2023
 
+**Image Restoration with Mean-Reverting Stochastic Differential Equations** \
+*Ziwei Luo, Fredrik K. Gustafsson, Zheng Zhao, Jens Sjölund, Thomas B. Schön* \
+ICML 2023. [[Paper](https://arxiv.org/abs/2301.11699)] [[Project](https://algolzw.github.io/ir-sde/index.html)] [[Github](https://github.com/Algolzw/image-restoration-sde)] \
+27 Jan 2023
 
