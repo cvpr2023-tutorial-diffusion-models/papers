@@ -153,8 +153,13 @@ CVPR 2022. [[Paper](https://arxiv.org/abs/2112.10752)] [[Github](https://github.
 ICML 2022. [[Paper](https://arxiv.org/abs/2206.09104)] [[Github](https://github.com/giannisdaras/sgilo)] \
 22 Jun 2022
 
+**Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models** \
+*Ziwei Luo, Fredrik K. Gustafsson, Zheng Zhao, Jens Sjölund, Thomas B. Schön* \
+CVPR Workshop 2023. [[Paper](https://arxiv.org/abs/2304.08291)] [[Github](https://github.com/Algolzw/image-restoration-sde)] \
+17 Apr 2023
 
 ## Generalized Diffusion Models
+
 
 **Diffusion Schrödinger Bridge** \
 *Valentin De Bortoli, James Thornton, Jeremy Heng, Arnaud Doucet* \
@@ -165,6 +170,12 @@ NeurIPS 2021. [[Paper](https://arxiv.org/abs/2106.01357)] \
 *Valentin De Bortoli, Emile Mathieu, Michael Hutchinson, James Thornton, Yee Whye Teh, Arnaud Doucet* \
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2202.02763)] \
 06 Feb 2022
+
+**Action Matching: Learning Stochastic Dynamics from Samples** \
+*Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani* \
+ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] [[Github](https://github.com/necludov/jam)] \
+13 Oct 2022
+
 
 **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise** \
 *Arpit Bansal, Eitan Borgnia, Hong-Min Chu, Jie S. Li, Hamid Kazemi, Furong Huang, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
@@ -181,4 +192,8 @@ TMLR 2023. [[Paper](https://openreview.net/forum?id=W98rebBxlQ)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.11435)] \
 20 March 2023
 
+**Image Restoration with Mean-Reverting Stochastic Differential Equations** \
+*Ziwei Luo, Fredrik K. Gustafsson, Zheng Zhao, Jens Sjölund, Thomas B. Schön* \
+ICML 2023. [[Paper](https://arxiv.org/abs/2301.11699)] [[Project](https://algolzw.github.io/ir-sde/index.html)] [[Github](https://github.com/Algolzw/image-restoration-sde)] \
+27 Jan 2023
 

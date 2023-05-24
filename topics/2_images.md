@@ -94,6 +94,11 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2212.04488)] [[Project](https://www.cs
 SIGGRAPH 2023. [[Paper](https://arxiv.org/abs/2305.01644)] [[Project](https://research.nvidia.com/labs/par/Perfusion/)] \
 8 Dec 2022
 
+**A Recipe for Watermarking Diffusion Models** \
+*Yunqing Zhao, Tianyu Pang, Chao Du, Xiao Yang, Ngai-Man Cheung, Min Lin* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.10137)] [[Project](https://github.com/yunqing-me/WatermarkDM)] \
+17 March 2023
+
 
 ## Fine-tuning
 
@@ -156,3 +161,16 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.04803)] [[Project](https://jerry
 *Saurabh Saxena, Abhishek Kar, Mohammad Norouzi, David J. Fleet* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.14816)]
 28 April 2023
+
+
+## Adversarial Robustness
+
+**Improving Robustness using Generated Data** \
+Sven Gowal, Sylvestre-Alvise Rebuffi, Olivia Wiles, Florian Stimberg, Dan Andrei Calian, Timothy Mann \
+NeurIPS 2021. [[Paper](https://arxiv.org/abs/2110.09468)] [[Github](https://github.com/deepmind/deepmind-research/tree/master/adversarial_robustness)] \
+18 Oct 2021
+
+**Better Diffusion Models Further Improve Adversarial Training** \
+Zekai Wang*, Tianyu Pang*, Chao Du, Min Lin, Weiwei Liu, Shuicheng Yan \
+ICML 2023. [[Paper](https://arxiv.org/pdf/2302.04638.pdf)] [[Github](https://github.com/wzekai99/DM-Improves-AT)] \
+09 Feb 2023
