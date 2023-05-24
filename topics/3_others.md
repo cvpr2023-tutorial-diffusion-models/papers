@@ -12,7 +12,6 @@ NeurIPS 2021. [[Paper](https://proceedings.neurips.cc/paper/2021/hash/7d6044e95a
 ICLR 2022. [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.com/yang-song/score_inverse_problems)] \
 15 Nov 2021
 
-
 **Denoising Diffusion Restoration Models** \
 *Bahjat Kawar, Michael Elad, Stefano Ermon, Jiaming Song* \
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2201.11793)] \
@@ -32,6 +31,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2304.11751)] \
 *Morteza Mardani, Jiaming Song, Jan Kautz, Arash Vahdat* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2305.04391)] \
 7 May 2023
+
+**Inversion by Direct Iteration: An Alternative to Denoising Diffusion for Image Restoration**
+*Mauricio Delbracio, Peyman Milanfar*
+arxiv 2023. [[Paper](https://arxiv.org/abs/2303.11435)] \
+22 Mar 2023
 
 ## 3D
 
