@@ -37,6 +37,16 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2305.04391)] \
 arxiv 2023. [[Paper](https://arxiv.org/abs/2303.11435)] \
 22 Mar 2023
 
+**Removing Structured Noise with Diffusion Models**
+*Tristan S.W. Stevens, Hans van Gorp, Faik C. Meral, Jun Seob Shin, Jason Yu, Jean-Luc Robert, Ruud J.G. van Sloun*
+arxiv 2023. [[Paper](https://arxiv.org/pdf/2302.05290.pdf)] [[Blog](https://tristan-deep.github.io/posts/2023/03/diffusion-models/)] \
+24 May 2023
+
+**Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**
+*Yinhuai Wang, Jiwen Yu, Jian Zhang*
+ICLR 2023. [[Paper](https://arxiv.org/pdf/2302.05290.pdf)] \
+1 Feb 2023
+
 ## 3D
 
 ### Point clouds
