@@ -160,10 +160,22 @@ CVPR Workshop 2023. [[Paper](https://arxiv.org/abs/2304.08291)] [[Github](https:
 
 ## Generalized Diffusion Models
 
+
+**Diffusion Schrödinger Bridge** \
+*Valentin De Bortoli, James Thornton, Jeremy Heng, Arnaud Doucet* \
+NeurIPS 2021. [[Paper](https://arxiv.org/abs/2106.01357)] \
+01 Jun 2021
+
+**Riemannian Score-Based Generative Modelling** \
+*Valentin De Bortoli, Emile Mathieu, Michael Hutchinson, James Thornton, Yee Whye Teh, Arnaud Doucet* \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2202.02763)] \
+06 Feb 2022
+
 **Action Matching: Learning Stochastic Dynamics from Samples** \
 *Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani* \
 ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] [[Github](https://github.com/necludov/jam)] \
 13 Oct 2022
+
 
 **Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise** \
 *Arpit Bansal, Eitan Borgnia, Hong-Min Chu, Jie S. Li, Hamid Kazemi, Furong Huang, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
