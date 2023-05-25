@@ -191,6 +191,11 @@ NeurIPS 2022. [[Paper](https://arxiv.org/abs/2205.09853)] [[Github](https://gith
 arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14792)] \
 29 Sep 2022
 
+**VIDM: Video Implicit Diffusion Models** \
+*Kangfu Mei, Vishal M. Patel* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2212.00235)] [[Project](https://kfmei.page/vidm/)] \
+1 Dec 2022
+
 **Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models** \
 *Andreas Blattmann<sup>1</sup>, Robin Rombach<sup>1</sup>, Huan Ling<sup>1</sup>, Tim Dockhorn<sup>1</sup>, Seung Wook Kim, Sanja Fidler, Karsten Kreis* \
 CVPR 2023. [[Paper](https://arxiv.org/abs/2304.08818)] [[Project](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)] \
