@@ -65,7 +65,10 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2206.05564)] [[Github](https://github
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04867)] [[Project](https://unipc.ivg-research.xyz)] [[Github](https://github.com/wl-zhao/UniPC)] \
 9 Feb 2023
 
-
+**Parallel Sampling of Diffusion Models** \
+*Andy Shih, Suneel Belkhale, Stefano Ermon, Dorsa Sadigh, Nima Anari* \
+arxiv 2023. [[Paper](https://arxiv.org/abs/2305.16317)] [[Github](https://github.com/AndyShih12/paradigms)] \
+25 May 2023
 
 
 ## Fast sampling with additional training
