@@ -42,7 +42,7 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2202.09778)] [[Github](https://github.
 
 **DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps** \
 *Cheng Lu, Yuhao Zhou, Fan Bao, Jianfei Chen, Chongxuan Li, Jun Zhu* \
-NeurrIPS 2022. [[Paper](https://arxiv.org/abs/2206.00927)] [[Github](https://github.com/LuChengTHU/dpm-solver)] \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2206.00927)] [[Github](https://github.com/LuChengTHU/dpm-solver)] \
 2 Jun 2022
 
 **DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models** \
@@ -117,7 +117,7 @@ NeurIPS Workshop 2021. [[Paper](https://arxiv.org/abs/2207.12598)] \
 
 **Negative Prompt** \
 *Automatic1111* \
-[[Report](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Negative-prompt)]
+GitHub. [[Paper](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Negative-prompt)]
 
 **Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
 *Susung Hong, Gyuseong Lee, Wooseok Jang, Seungryong Kim* \
