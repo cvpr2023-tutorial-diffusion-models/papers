@@ -200,3 +200,30 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.11435)] \
 ICML 2023. [[Paper](https://arxiv.org/abs/2301.11699)] [[Project](https://algolzw.github.io/ir-sde/index.html)] [[Github](https://github.com/Algolzw/image-restoration-sde)] \
 27 Jan 2023
 
+
+## Limitations & Mitigations
+
+**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models** \
+*Gowthami Somepalli, Vasu Singla, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
+CVPR 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)] [[Github](https://github.com/somepago/DCR)] \
+7 Dec 2022
+
+**Extracting Training Data from Diffusion Models** \
+*Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2301.13188)] \
+30 Jan 2023
+
+**Erasing Concepts from Diffusion Models** \
+*Rohit Gandikota, Joanna Materzynska, Jaden Fiotto-Kaufman, David Bau* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2303.07345)] \
+13 March 2023 
+
+**Ablating Concepts in Text-to-Image Diffusion Models** \
+*Nupur Kumari, Bin Zhang, Sheng-Yu Wang, Eli Shechtman, Richard Zhang, Jun-Yan Zhu* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2303.13516)] \
+23 March 2023 
+
+**Understanding and Mitigating Copying in Diffusion Models** \
+*Gowthami Somepalli, Vasu Singla, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.20086)] [[Github](https://github.com/somepago/DCR)] \
+31 May 2023
