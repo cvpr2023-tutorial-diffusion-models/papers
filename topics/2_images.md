@@ -162,6 +162,11 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.04803)] [[Project](https://jerry
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.14816)]
 28 April 2023
 
+## Classification
+**Your Diffusion Model is Secretly a Zero-Shot Classifier** \
+*Alexander C. Li, Mihir Prabhudesai, Shivam Duggal, Ellis Brown, Deepak Pathak*\
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.16203)] [[Project](https://diffusion-classifier.github.io/)] [[Github](https://github.com/diffusion-classifier/diffusion-classifier)] \
+28 Mar 2023
 
 ## Adversarial Robustness
 
