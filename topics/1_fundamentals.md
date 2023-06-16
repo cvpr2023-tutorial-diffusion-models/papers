@@ -123,6 +123,12 @@ NeurIPS Workshop 2021. [[Paper](https://arxiv.org/abs/2207.12598)] \
 *Automatic1111* \
 GitHub. [[Paper](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Negative-prompt)]
 
+**Compositional Visual Generation with Composable Diffusion Models**\
+*Nan Liu<sup>1</sup>, Shuang Li<sup>1</sup>, Yilun Du<sup>1</sup>, Antonio Torralba, Joshua B. Tenenbaum* \
+We proposed both conjunction and negation sampling methods for multi-condition sampling. The negation method bears similarities to **negative prompting**. \
+ECCV 2022 [[Paper](https://arxiv.org/abs/2206.01714)] [[Github](https://github.com/energy-based-model/Compositional-Visual-Generation-with-Composable-Diffusion-Models-PyTorch)] [[Project](https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/)] \
+3 Jun 2022
+
 **Improving Sample Quality of Diffusion Models Using Self-Attention Guidance** \
 *Susung Hong, Gyuseong Lee, Wooseok Jang, Seungryong Kim* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2210.00939)] [[Github](https://github.com/KU-CVLAB/Self-Attention-Guidance/)] \
