@@ -274,3 +274,36 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2304.08577)] [[Project](https://duluca
 *Yonatan Shafir<sup>1</sup>, Guy Tevet<sup>1</sup>, Roy Kapon, Amit H. Bermano* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2303.01418)] \
 2 Mar 2023
+
+
+## Limitations & Mitigations
+
+**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models** \
+*Gowthami Somepalli, Vasu Singla, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
+CVPR 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepalli_Diffusion_Art_or_Digital_Forgery_Investigating_Data_Replication_in_Diffusion_CVPR_2023_paper.pdf)] [[Github](https://github.com/somepago/DCR)] \
+7 Dec 2022
+
+**Extracting Training Data from Diffusion Models** \
+*Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2301.13188)] \
+30 Jan 2023
+
+**Erasing Concepts from Diffusion Models** \
+*Rohit Gandikota, Joanna Materzynska, Jaden Fiotto-Kaufman, David Bau* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2303.07345)] \
+13 March 2023 
+
+**Ablating Concepts in Text-to-Image Diffusion Models** \
+*Nupur Kumari, Bin Zhang, Sheng-Yu Wang, Eli Shechtman, Richard Zhang, Jun-Yan Zhu* \
+arXiv 2023 [[Paper](https://arxiv.org/abs/2303.13516)] \
+23 March 2023 
+
+**Understanding and Mitigating Copying in Diffusion Models** \
+*Gowthami Somepalli, Vasu Singla, Micah Goldblum, Jonas Geiping, Tom Goldstein* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.20086)] [[Github](https://github.com/somepago/DCR)] \
+31 May 2023
+
+**Extracting Training Data from Diffusion Models** \
+*Nicholas Carlini<sup>1</sup>, Jamie Hayes<sup>1</sup>, Milad Nasr<sup>1</sup>, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2302.00860)] \
+2 Feb 2023
