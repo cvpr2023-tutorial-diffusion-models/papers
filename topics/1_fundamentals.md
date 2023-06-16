@@ -70,6 +70,10 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2302.04867)] [[Project](https://unipc
 arxiv 2023. [[Paper](https://arxiv.org/abs/2305.16317)] [[Github](https://github.com/AndyShih12/paradigms)] \
 25 May 2023
 
+**A Geometric Perspective on Diffusion Models** \
+*Defang Chen, Zhenyu Zhou, Jian-Ping Mei, Chunhua Shen, Chun Chen, Can Wang* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2305.19947)] \
+31 May 2023
 
 ## Fast sampling with additional training
 
