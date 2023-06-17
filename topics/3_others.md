@@ -17,6 +17,16 @@ ICLR 2022. [[Paper](https://arxiv.org/abs/2111.08005)] [[Github](https://github.
 NeurIPS 2022. [[Paper](https://arxiv.org/abs/2201.11793)] \
 27 Jan 2022
 
+**Improving Diffusion Models for Inverse Problems using Manifold Constraints** \
+*Hyungjin Chung<sup>1</sup>, Byeongsu Sim<sup>1</sup>, Dohoon Ryu, Jong Chul Ye* \
+NeurIPS 2022. [[Paper](https://arxiv.org/abs/2206.00941)] \
+2 Jun 2022
+
+**Pyramidal Denoising Diffusion Probabilistic Models** \
+*Dohoon Ryu, Jong Chul Ye* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2208.01864)] \
+3 Aug 2022
+
 **Diffusion Posterior Sampling for General Noisy Inverse Problems** \
 *Hyungjin Chung<sup>1</sup>, Jeongsol Kim<sup>1</sup>, Michael T. Mccann, Marc L. Klasky, Jong Chul Ye* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14687)] [[Github](https://github.com/DPS2022/diffusion-posterior-sampling)] \
@@ -26,6 +36,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2209.14687)] [[Github](https://github
 *Berthy T. Feng, Jamie Smith, Michael Rubinstein, Huiwen Chang, Katherine L. Bouman, William T. Freeman* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2304.11751)] \
 23 Apr 2023
+
+**Pseudoinverse-Guided Diffusion Models for Inverse Problems** \
+*Jiaming Song, Arash Vahdat, Morteza Mardani, Jan Kautz* \
+ICLR 2023. [[Paper](https://openreview.net/forum?id=9_gsMA8MRKQ)] \
+7 May 2023
 
 **A Variational Perspective on Solving Inverse Problems with Diffusion Models** \
 *Morteza Mardani, Jiaming Song, Jan Kautz, Arash Vahdat* \
@@ -194,7 +209,7 @@ NeurIPS 2022. [[Paper](https://arxiv.org/abs/2205.09853)] [[Github](https://gith
 
 **Imagen Video: High Definition Video Generation with Diffusion Models** \
 *Jonathan Ho, William Chan, Chitwan Saharia, Jay Whang, Ruiqi Gao, Alexey Gritsenko, Diederik P. Kingma, Ben Poole, Mohammad Norouzi, David J. Fleet, Tim Salimans* \
-[[Paper](https://imagen.research.google/video/paper.pdf)]
+Oct 2022. [[Paper](https://imagen.research.google/video/paper.pdf)]
 
 **Make-A-Video: Text-to-Video Generation without Text-Video Data** \
 *Uriel Singer, Adam Polyak, Thomas Hayes, Xi Yin, Jie An, Songyang Zhang, Qiyuan Hu, Harry Yang, Oron Ashual, Oran Gafni, Devi Parikh, Sonal Gupta, Yaniv Taigman* \
@@ -285,17 +300,17 @@ CVPR 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Somepa
 
 **Extracting Training Data from Diffusion Models** \
 *Nicholas Carlini, Jamie Hayes, Milad Nasr, Matthew Jagielski, Vikash Sehwag, Florian Tramèr, Borja Balle, Daphne Ippolito, Eric Wallace* \
-arXiv 2023 [[Paper](https://arxiv.org/abs/2301.13188)] \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2301.13188)] \
 30 Jan 2023
 
 **Erasing Concepts from Diffusion Models** \
 *Rohit Gandikota, Joanna Materzynska, Jaden Fiotto-Kaufman, David Bau* \
-arXiv 2023 [[Paper](https://arxiv.org/abs/2303.07345)] \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.07345)] \
 13 March 2023 
 
 **Ablating Concepts in Text-to-Image Diffusion Models** \
 *Nupur Kumari, Bin Zhang, Sheng-Yu Wang, Eli Shechtman, Richard Zhang, Jun-Yan Zhu* \
-arXiv 2023 [[Paper](https://arxiv.org/abs/2303.13516)] \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.13516)] \
 23 March 2023 
 
 **Understanding and Mitigating Copying in Diffusion Models** \
