@@ -40,25 +40,26 @@ arXiv 2021. [[Paper](https://arxiv.org/abs/2105.14080)] [[Github](https://github
 ICLR 2022. [[Paper](https://arxiv.org/abs/2202.09778)] [[Github](https://github.com/luping-liu/PNDM)] \
 20 Feb 2022
 
-**DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps** \
-*Cheng Lu, Yuhao Zhou, Fan Bao, Jianfei Chen, Chongxuan Li, Jun Zhu* \
-NeurIPS 2022. [[Paper](https://arxiv.org/abs/2206.00927)] [[Github](https://github.com/LuChengTHU/dpm-solver)] \
-2 Jun 2022
-
-**DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models** \
-*Cheng Lu, Yuhao Zhou, Fan Bao, Jianfei Chen, Chongxuan Li, Jun Zhu* \
-NeurIPS 2022 (Oral). [[Paper](https://arxiv.org/abs/2211.01095)] [[Github](https://github.com/LuChengTHU/dpm-solver)] \
-2 Nov 2022
-
 **Fast Sampling of Diffusion Models with Exponential Integrator** \
 *Qinsheng Zhang, Yongxin Chen* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2204.13902)] \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2204.13902)] [[Github](https://github.com/qsh-zh/deis)] \
 29 Apr 2022
+
+**DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps** \
+*Cheng Lu, Yuhao Zhou, Fan Bao, Jianfei Chen, Chongxuan Li, Jun Zhu* \
+NeurIPS 2022 (Oral). [[Paper](https://arxiv.org/abs/2206.00927)] [[Github](https://github.com/LuChengTHU/dpm-solver)] \
+2 Jun 2022
 
 **gDDIM: Generalized denoising diffusion implicit models** \
 *Qinsheng Zhang, Molei Tao, Yongxin Chen* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2206.05564)] [[Github](https://github.com/qsh-zh/gDDIM)] \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2206.05564)] [[Github](https://github.com/qsh-zh/gDDIM)] \
 11 Jun 2022
+
+**DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models** \
+*Cheng Lu, Yuhao Zhou, Fan Bao, Jianfei Chen, Chongxuan Li, Jun Zhu* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2211.01095)] [[Github](https://github.com/LuChengTHU/dpm-solver)] \
+2 Nov 2022
+
 
 **UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models** \
 *Wenliang Zhao, Lujia Bai, Yongming Rao, Jie Zhou, Jiwen Lu* \
@@ -111,7 +112,7 @@ CVPR 2023. [[Paper](https://arxiv.org/abs/2211.16152)] [[Github](https://github.
 
 **Diffusion Models Beat GANs on Image Synthesis** \
 *Prafulla Dhariwal<sup>1</sup>, Alex Nichol<sup>1</sup>* \
-arXiv 2021. [[Paper](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)] \
+NeurIPS 2021. [[Paper](https://arxiv.org/abs/2105.05233)] [[Github](https://github.com/openai/guided-diffusion)] \
 11 May 2021 
 
 **Classifier-Free Diffusion Guidance** \
